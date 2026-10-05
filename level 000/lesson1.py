@@ -16,7 +16,6 @@ forward(200)
 left(90)
 forward(200)
 left(90)
-
 #end of square
 
 #drawing a door
