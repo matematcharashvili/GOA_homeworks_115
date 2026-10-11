@@ -63,6 +63,3 @@ print(name)
 print(height)
 
 print(age)
-
-
-

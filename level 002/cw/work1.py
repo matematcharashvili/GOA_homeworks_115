@@ -55,8 +55,3 @@ print(saxeligvari)
 
 
 print(9 / 20)
-
-x =  nodo
-print(x)
-
-
