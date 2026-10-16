@@ -1,0 +1,1 @@
+print(int(input("შეიყვანე base: ")) ** int(input("შეიყვანე exponent: ")))
