@@ -1,7 +1,7 @@
 #CLASSWORK 1
 celsius = int(input("Enter celsius"))
 fahrenheit = int(celsius) * 9/5 + 32
-print("RESULT: ", fahrenheit)
+print( fahrenheit)
 
 
 

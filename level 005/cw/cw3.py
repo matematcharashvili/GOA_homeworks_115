@@ -1,0 +1,6 @@
+num1 =int(input("enter another number"))
+num2 =int(input("enter another number"))
+num3 =int(input("enter another number"))
+num4 =int(input("enter another number"))
+num5 =int(input("enter another number"))
+print(num1 + num2 + num3 + num4 + num5)

@@ -43,13 +43,13 @@ print(n1 + n2,   n1 * n2,   n1 / n2,   n1 - n2,   n1 // n2,   n1 ** n2,    n1%n2
 
 candies = int(input("Enter Candies Amount"))
 
-boxes = candies // 12
+boxes =  candies // 12
 
 remaining = candies % 12
 print("full boxes: ", boxes)
 print("remaining candies: ", remaining)
 
-# ჩვენი ბრძანება candies // 12 გვეუბნება თუ რამდენი ყუთი გაივსება მთლიანად,ხოლო candies % 12 გვეუბნება რამდენი გამფეტი დარჩება.
+# ჩვენი ბრძანება candies // 12 გვეუბნება თუ რამდენი ყუთი გაივსება მთლიანად,ხოლო candies % 12 გვეუბნება რამდენი კამფეტი დარჩება.
 
 
 # დავალება [5]
