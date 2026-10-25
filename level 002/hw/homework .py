@@ -63,3 +63,5 @@ print(name)
 print(height)
 
 print(age)
+
+print(input() + input())

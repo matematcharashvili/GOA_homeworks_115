@@ -2,10 +2,13 @@
 
 # დავალება [1]
 
-name = input("Hello My Name is: ")
-surname = input("My Surname Is:")
-age = input("My Age is")
+name = input("Enter Your Name: ")
+surname = input("Enter Your Surname:")
+age = input("Enter Your Age")
 
+print("My Name Is: ", name)
+print("My Surname Is: ", surname)
+print("My Age is :", age)
 # დავალება [2]
 
 price1 = int(input("Enter Product Price "))
@@ -78,7 +81,7 @@ people = int(input("Enter Number Of People: "))
 print("Person Gets: ", money // people)
 print("Remeaning Money: ",  money % people)
 
-# დავალება [8]
+# დავალება [9]
 full_price = int(input("Enter product price: "))
 fasdaklebis_procenti = int(input("Enter discount percentage: "))
 
