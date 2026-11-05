@@ -26,7 +26,7 @@ print(true > -100)
 
 age = input()
 
-if age> 18
+if age> 18:
     print("you are adult")
 print("this is global")        
 
